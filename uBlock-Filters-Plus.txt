@@ -1,0 +1,16 @@
+! Title: uBlock Filters +
+! Expires: 1 days
+! License: https://creativecommons.org/licenses/by-sa/4.0/
+! Homepage: https://github.com/IDKwhattoputhere/uBlock-Filters-Plus
+! Support: https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/issues
+
+! adf.ly
+! https://github.com/gorhill/uBlock/issues/1381#issuecomment-184059606
+||adplxmd.com^$document,popunder,popup,script,subdocument
+||adnetworkperformance.com^$document,popunder,popup,script,subdocument
+
+! streamcloud.eu
+||invernetter.info^
+! https://github.com/gorhill/uBlock/issues/1053#issuecomment-182175494
+||trimpur.com^$document,popunder,popup,script,subdocument
+||signetter.com^$document,popunder,popup,script,subdocument
