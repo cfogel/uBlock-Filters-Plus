@@ -28,3 +28,7 @@
 ! https://forums.lanik.us/viewtopic.php?p=87128#p87128
 ||vptbn.com^$popup
 ||cnt.viptube.com^
+
+! Blocking video player
+! https://forums.lanik.us/viewtopic.php?f=62&t=28262
+auroravid.to,wholecloud.net###aad
