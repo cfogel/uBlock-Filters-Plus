@@ -14,3 +14,7 @@
 ! https://github.com/gorhill/uBlock/issues/1053#issuecomment-182175494
 ||trimpur.com^$document,popunder,popup,script,subdocument
 ||signetter.com^$document,popunder,popup,script,subdocument
+
+! Global Yahoo search ads
+! https://forums.lanik.us/viewtopic.php?p=84783#p84783
+##[href^="http://r.search.yahoo.com/cbclk/"]
