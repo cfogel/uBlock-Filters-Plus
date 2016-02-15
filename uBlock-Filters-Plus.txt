@@ -10,6 +10,7 @@
 ||adnetworkperformance.com^$document,popunder,popup,script,subdocument
 
 ! streamcloud.eu
+! https://forums.lanik.us/viewtopic.php?p=87061#p87061
 ||invernetter.info^
 ! https://github.com/gorhill/uBlock/issues/1053#issuecomment-182175494
 ||trimpur.com^$document,popunder,popup,script,subdocument
