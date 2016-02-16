@@ -37,7 +37,7 @@ auroravid.to,wholecloud.net###aad
 ||proxy-*.amazonaws.com/bait|
 
 ! userscloud.com
-|https://$popup,script,domain=userscloud.com
+|https://$popup,script,third-party,domain=userscloud.com
 
 ! web.de/gmx.net
 ||info.web.de^
