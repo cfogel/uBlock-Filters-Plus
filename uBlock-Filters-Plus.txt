@@ -45,6 +45,10 @@ auroravid.to,wholecloud.net###aad
 |http://$popup,third-party,domain=userscloud.com
 |https://$popup,third-party,domain=userscloud.com
 
+! eff.org
+! https://forums.lanik.us/viewtopic.php?p=86037#p86037
+@@||eff.org^$generichide
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
