@@ -202,7 +202,7 @@ gmx.net,web.de##TR.li.iba
 ||itsme247.com^*/ga.js
 ||eztv.ag/ezimg/s/1/1/s.gif
 ||kastatic.com^*/blank.gif
-||youtube.com/*_204?
+||youtube.com/csi_204?
 ||google.com/uds/*search
 ||adobe.com^*/pixel.gif
 ||ebayrtm.com/clk?$image
