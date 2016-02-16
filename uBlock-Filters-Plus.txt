@@ -146,7 +146,6 @@ gmx.net,web.de##TR.li.iba
 ||conversionsondemand.com^$third-party
 ||liveclicker.net^$third-party
 ||atgsvcs.com^$third-party
-||mailchimp.com^$third-party
 ||adblade.com^$third-party,popup
 ||247-inc.net^$third-party
 ||intilery-analytics.com^$third-party
