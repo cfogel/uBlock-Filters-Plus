@@ -122,7 +122,6 @@ gmx.net,web.de##TR.li.iba
 ||clkfeed.com^
 ||clicksvenue.com^
 ||globaltraffico.com^
-||msads.net^$third-party
 ||apportium.com^
 ||zeroredirect1.com^
 ||sharethis.com^$third-party
