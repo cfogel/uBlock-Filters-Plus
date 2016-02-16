@@ -121,7 +121,6 @@ gmx.net,web.de##TR.li.iba
 ||globaltraffico.com^
 ||msads.net^
 ||apportium.com^
-||ioam.de^
 ||zeroredirect1.com^
 
 ! Courtesy of @jo2dan23
