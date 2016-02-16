@@ -60,6 +60,9 @@ auroravid.to,wholecloud.net###aad
 ! al.ly
 ||http://$subdocument,domain=al.ly,third-party
 
+! freenet.de
+@@||firebaseapp.com/adpoint.js?_=$script
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
