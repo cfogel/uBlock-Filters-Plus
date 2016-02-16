@@ -45,6 +45,11 @@ auroravid.to,wholecloud.net###aad
 |http://$popup,third-party,domain=userscloud.com
 |https://$popup,third-party,domain=userscloud.com
 
+! netzwelt.de
+||zanox-affiliate.de^$popup
+! https://github.com/gorhill/uBlock/issues/1366#issuecomment-182877512
+netzwelt.de###mhc + div[id][class]
+
 ! web.de/gmx.net
 ||info.web.de^
 ||info.gmx.net^
