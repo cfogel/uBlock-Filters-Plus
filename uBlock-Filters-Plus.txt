@@ -33,6 +33,9 @@
 ! https://forums.lanik.us/viewtopic.php?f=62&t=28262
 auroravid.to,wholecloud.net###aad
 
+! ghacks.net
+||proxy-*.amazonaws.com/bait|
+
 ! web.de/gmx.net
 ||info.web.de^
 ||info.gmx.net^
