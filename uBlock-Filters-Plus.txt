@@ -24,7 +24,6 @@
 ##[href^="http://engine.4dsply.com/"]
 ! https://github.com/gorhill/uBlock/issues/1142#issue-124251618
 ||branchroughlend.info^
-||branchroughlend.info^$popunder,popup
 
 ! Global Yahoo search ads
 ! https://forums.lanik.us/viewtopic.php?p=84783#p84783
