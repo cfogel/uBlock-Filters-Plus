@@ -47,6 +47,8 @@ auroravid.to,wholecloud.net###aad
 
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
+netzwelt.de##.fi.stcl
+netzwelt.de##.ckch
 ! https://github.com/gorhill/uBlock/issues/1366#issuecomment-182877512
 netzwelt.de###mhc + div[id][class]
 
