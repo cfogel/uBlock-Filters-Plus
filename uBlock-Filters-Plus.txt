@@ -6,20 +6,25 @@
 
 ! adf.ly
 ! https://github.com/gorhill/uBlock/issues/1381#issuecomment-184059606
-||adplxmd.com^$document,popunder,popup,script,subdocument
-||adnetworkperformance.com^$document,popunder,popup,script,subdocument
+||adplxmd.com^
+||adplxmd.com^$popunder,popup
+||adnetworkperformance.com^
+||adnetworkperformance.com^$popunder,popup
 
 ! streamcloud.eu
 ! https://forums.lanik.us/viewtopic.php?p=87061#p87061
 ||invernetter.info^
 ! https://github.com/gorhill/uBlock/issues/1053#issuecomment-182175494
-||trimpur.com^$document,popunder,popup,script,subdocument
-||signetter.com^$document,popunder,popup,script,subdocument
+||trimpur.com^
+||trimpur.com^$popunder,popup
+||signetter.com^
+||signetter.com^$popunder,popup
 
 ! primewire.ag
 ##[href^="http://engine.4dsply.com/"]
 ! https://github.com/gorhill/uBlock/issues/1142#issue-124251618
-||branchroughlend.info^$document,popunder,popup,script,subdocument
+||branchroughlend.info^
+||branchroughlend.info^$popunder,popup
 
 ! Global Yahoo search ads
 ! https://forums.lanik.us/viewtopic.php?p=84783#p84783
