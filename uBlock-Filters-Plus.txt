@@ -36,6 +36,10 @@ auroravid.to,wholecloud.net###aad
 ! ghacks.net
 ||proxy-*.amazonaws.com/bait|
 
+! userscloud.com
+! https://forums.lanik.us/viewtopic.php?f=62&t=28492&hilit=gstatic.com
+||gstatic.com^$popup
+
 ! web.de/gmx.net
 ||info.web.de^
 ||info.gmx.net^
