@@ -48,6 +48,48 @@ gmx.net,web.de##TR.iba
 gmx.net,web.de##TR.li.iba-acceptable
 gmx.net,web.de##TR.li.iba
 
+! Assortment of ad severs not found in Peter Lowe's
+||directrev.com^
+||terraclicks.com^
+||loading-delivery1.com^
+||loading-delivery2.com^
+||liveadexchanger.com^
+||popcash.net^
+||spaceshipads.com^
+||rdsa2012.com^
+||all2lnk.com^
+||predictivadvertising.com^
+||4dsply.com^
+||xl415.com^
+||trackingclick.net^
+||redirectvoluum.com^
+||ampclicks.com^
+||bestadbid.com^
+||prpops.com^
+||bongacash.com^
+||megapopads.com^
+||padsdel.com^
+||n121adserv.com^
+||popundertotal.com^
+||popmyads.com^
+||phoenixads.co.in^
+||newpoptab.com^
+||adsrvmedia.net^
+||n156adserv.com^
+||directadvert.ru^
+||hilltopads.net^
+||trw12.com^
+||traffichaus.com^
+||zinturax.com^
+||trafficstars.com^
+||clkfeed.com^
+||clicksvenue.com^
+||globaltraffico.com^
+||msads.net^
+||apportium.com^
+||ioam.de^
+||zeroredirect1.com^
+
 ! Courtesy of @jo2dan23
 ! https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/commit/9e916c80bb32eef701e20ffb910530824633eb8d#commitcomment-16105873
 ||integrousmarketing.com^$third-party
