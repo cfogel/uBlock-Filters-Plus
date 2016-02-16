@@ -49,6 +49,9 @@ auroravid.to,wholecloud.net###aad
 ! https://forums.lanik.us/viewtopic.php?p=86037#p86037
 @@||eff.org^$generichide
 
+! al.ly
+||http://$subdocument,domain=al.ly,third-party
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
