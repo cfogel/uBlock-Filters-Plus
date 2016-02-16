@@ -17,6 +17,7 @@
 ||signetter.com^$document,popunder,popup,script,subdocument
 
 ! primewire.ag
+##[href^="http://engine.4dsply.com/"]
 ! https://github.com/gorhill/uBlock/issues/1142#issue-124251618
 ||branchroughlend.info^$document,popunder,popup,script,subdocument
 
