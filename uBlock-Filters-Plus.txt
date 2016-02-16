@@ -40,7 +40,6 @@ auroravid.to,wholecloud.net###aad
 ! userscloud.com
 |http://$popup,third-party,domain=userscloud.com
 |https://$popup,third-party,domain=userscloud.com
-|https://$script,third-party,domain=userscloud.com
 
 ! web.de/gmx.net
 ||info.web.de^
