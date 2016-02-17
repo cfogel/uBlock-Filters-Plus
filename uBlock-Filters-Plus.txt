@@ -27,6 +27,14 @@
 ||officerrecordscale.info^
 ||officerrecordscale.info^$popunder,popup
 
+! revclouds.com
+||cytochemistryrecitativewrasse.com^
+||cytochemistryrecitativewrasse.com^$popunder,popup
+||finishclueobscure.info^
+||finishclueobscure.info^$popunder,popup
+||zerem.*.info^
+||zerem.*.info^$popunder,popup
+
 ! primewire.ag
 ##[href^="http://engine.4dsply.com/"]
 ! https://github.com/gorhill/uBlock/issues/1142#issue-124251618
