@@ -5,4 +5,4 @@ Add **uBlock Filters +** from here: [Filter lists from around the web](https://g
 
 Contains filters specific to uBlock Origin (like popunder filters) and some filters that have not yet been added to other filterlists.
 
-Open a new issue if you want a filter to be added/removed but read this first: [CONTRIBUTING.md](https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/blob/master/CONTRIBUTING.md)
+Open a new issue if you want a filter to be added/changed/removed but read this first: [CONTRIBUTING.md](https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/blob/master/CONTRIBUTING.md)
