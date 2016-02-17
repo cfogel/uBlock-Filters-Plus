@@ -28,3 +28,4 @@ In the issue please provide the following information:
 [How to upload?](https://help.github.com/assets/images/help/pull_requests/dragging_images.gif)
 2. Your browser
 3. Your filterlists
+4. Any additional information you deem worth providing (like suggestions for filters).
