@@ -71,10 +71,11 @@ auroravid.to,wholecloud.net###aad
 @@||firebaseapp.com/adpoint.js?_=$script
 
 ! gamebanana.com
+###AdsByCurseBanner
 ||files.gamebanana.com/bitpit/opskins-gamebanana-*.jpg
 ! Experimental:
 /cdn-cgi/pe/bag2?r[]=http$xmlhttprequest
-||cdm.cursecdn.com^
+||cdm.cursecdn.com^$third-party
 
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
