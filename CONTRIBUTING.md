@@ -24,7 +24,7 @@ In the issue please provide the following information:
 
 - Provide this addtional information if you want to get the issue resolved faster:
 
-1. One screenshot
+1. A screenshot
 [How to upload?](https://help.github.com/assets/images/help/pull_requests/dragging_images.gif)
 2. Your browser
 3. Your filterlists
