@@ -1,7 +1,7 @@
 # uBlock Filters Plus
 A filterlist with additional filters for uBlock Origin.
 
-Link to the list (add this [here](https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/3rd-party-filters-custom.png)): https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
+Add the list from here: https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web#lists-taking-advantage-of-ublock-origin-specific-filter-syntax
 
 Contains filters specific to uBlock Origin (like popunder filters) and some filters that have not yet been added to other filterlists.
 
