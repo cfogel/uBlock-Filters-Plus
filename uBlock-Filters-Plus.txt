@@ -1,5 +1,4 @@
 ! Title: uBlock Filters +
-! Expires: 1 days
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
 ! Homepage: https://github.com/IDKwhattoputhere/uBlock-Filters-Plus
 ! Support: https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/issues
