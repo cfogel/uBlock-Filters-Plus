@@ -141,10 +141,10 @@ gmx.net,web.de##TR.li.iba
 ||globaltraffico.com^
 ||apportium.com^
 ||zeroredirect1.com^
-zeroredirect2.com
-zeroredirect10.com
-dprtb.com
-bestoffertime.com
+||zeroredirect2.com^
+||zeroredirect10.com^
+||dprtb.com^
+||bestoffertime.com^
 ||sharethis.com^$third-party
 
 ! Courtesy of @jo2dan23
