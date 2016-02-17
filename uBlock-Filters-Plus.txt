@@ -104,6 +104,10 @@ live.com###owaadbar
 ! startpage.com
 @@/js/abp.js?
 
+! Experimental Anti-Adblock circumvention
+@@||popads.net/pop.js$script
+||popads.net^
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
