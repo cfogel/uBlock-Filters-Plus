@@ -80,10 +80,6 @@ auroravid.to,wholecloud.net###aad
 ! focus.de
 ||p5.focus.de/img/fotos/*/*/chef-aerger.jpg
 
-! chip.de
-! Experimental rule to counter hpHosts and unbreak videos.
-@@||ad-js.chip.de^
-
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
