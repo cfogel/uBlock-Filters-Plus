@@ -70,6 +70,11 @@ auroravid.to,wholecloud.net###aad
 ! freenet.de
 @@||firebaseapp.com/adpoint.js?_=$script
 
+! gamebanana.com
+||files.gamebanana.com/bitpit/opskins-gamebanana-*.jpg
+! Experimental:
+/cdn-cgi/pe/bag2?r[]=http$xmlhttprequest
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
