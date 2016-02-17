@@ -74,6 +74,7 @@ auroravid.to,wholecloud.net###aad
 ||files.gamebanana.com/bitpit/opskins-gamebanana-*.jpg
 ! Experimental:
 /cdn-cgi/pe/bag2?r[]=http$xmlhttprequest
+||cdm.cursecdn.com^
 
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
