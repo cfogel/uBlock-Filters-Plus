@@ -85,7 +85,7 @@ gmx.net,web.de##TR.iba
 gmx.net,web.de##TR.li.iba-acceptable
 gmx.net,web.de##TR.li.iba
 
-! Assortment of ad/tracking severs not found in Peter Lowe's
+! Assortment of ad/tracking servers not found in Peter Lowe's
 ||directrev.com^
 ||terraclicks.com^
 ||loading-delivery1.com^
