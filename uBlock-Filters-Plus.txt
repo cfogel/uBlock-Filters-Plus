@@ -40,9 +40,13 @@
 ! https://github.com/gorhill/uBlock/issues/1142#issue-124251618
 ||branchroughlend.info^
 
-! Global Yahoo search ads
+! Yahoo
+! Experimental
+! Global search ads
 ! https://forums.lanik.us/viewtopic.php?p=84783#p84783
 ##[href^="http://r.search.yahoo.com/cbclk/"]
+! Search ads
+search.yahoo.com###right
 
 ! viptube.com
 ! https://forums.lanik.us/viewtopic.php?p=87128#p87128
@@ -86,6 +90,19 @@ auroravid.to,wholecloud.net###aad
 
 ! hugefiles.net
 ||free-state.work^$popup
+
+! search.disconnect.me
+https://$domain=search.disconnect.me,third-party
+search.disconnect.me##a[href^="https://disconnect.me/premium"]
+
+! textmechanic.com
+textmechanic.com##.patreon
+
+! mail.live.com
+live.com###owaadbar
+
+! startpage.com
+@@/js/abp.js?
 
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
