@@ -77,6 +77,9 @@ auroravid.to,wholecloud.net###aad
 /cdn-cgi/pe/bag2?r[]=http$xmlhttprequest
 ||cdm.cursecdn.com^$third-party
 
+! focus.de
+||p5.focus.de/img/fotos/*/*/chef-aerger.jpg
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
