@@ -139,8 +139,10 @@ searchdns.netcraft.com##.advert-tag
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
 netzwelt.de##.ckch
+netzwelt.de##DIV#mr[style="width: auto; float: right;"]
+netzwelt.de##DIV[style="text-align: center; padding: 0px; border-color: transparent; cursor: pointer; z-index: 1; height: 205px;"]
 ! https://github.com/gorhill/uBlock/issues/1366#issuecomment-182877512
-netzwelt.de###mhc + div[id][class]
+! netzwelt.de###mhc + div[id][class]
 
 ! web.de/gmx.net
 ||info.web.de^
