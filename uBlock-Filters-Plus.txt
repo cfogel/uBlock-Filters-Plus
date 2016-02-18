@@ -101,7 +101,7 @@ auroravid.to,wholecloud.net###aad
 
 ! search.disconnect.me
 https://$domain=search.disconnect.me,third-party
-search.disconnect.me##a[href^="https://disconnect.me/premium"]
+search.disconnect.me###premium-protection
 
 ! textmechanic.com
 textmechanic.com##.patreon
