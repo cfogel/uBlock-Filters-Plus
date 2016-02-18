@@ -35,6 +35,12 @@
 ||zerem.*.info^
 ||zerem.*.info^$popunder,popup
 
+! torrentz.eu
+||ticrite.com^
+||ticrite.com^$popunder,popup
+||scandicas.com^
+||scandicas.com^$popunder,popup
+
 ! primewire.ag
 ##[href^="http://engine.4dsply.com/"]
 ! https://github.com/gorhill/uBlock/issues/1142#issue-124251618
