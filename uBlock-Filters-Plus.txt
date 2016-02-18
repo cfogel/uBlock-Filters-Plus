@@ -43,6 +43,10 @@
 ! Experimental
 ###infCP
 
+! blockadblock
+! https://github.com/reek/anti-adblock-killer/issues/1055
+noticiasautomotivas.com.br##script:inject(bab-defuser.js)
+
 ! primewire.ag
 ##[href^="http://engine.4dsply.com/"]
 ! https://github.com/gorhill/uBlock/issues/1142#issue-124251618
