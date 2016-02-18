@@ -135,6 +135,11 @@ searchdns.netcraft.com##.advert-tag
 ! youtube.com
 /log_interaction?
 
+! newimagepost.com
+|http://$domain=newimagepost.com,third-party,script
+||synhandler.net^
+||tataget.ru^
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
