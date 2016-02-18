@@ -109,9 +109,9 @@ live.com###owaadbar
 ||popads.net^
 
 ! hstspreload.appspot.com (some rare breakage, whitelisting does no harm)
-@@||hstspreload.appspot.com^
+@@||hstspreload.appspot.com^$first-party
 
-! searchdns.netcraft.com
+! searchdns.netcraft.com (some rare breakage)
 @@||searchdns.netcraft.com^$generichide
 
 ! netzwelt.de
