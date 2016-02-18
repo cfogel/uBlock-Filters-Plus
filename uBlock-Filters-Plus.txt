@@ -113,6 +113,7 @@ live.com###owaadbar
 
 ! searchdns.netcraft.com (some rare breakage)
 @@||searchdns.netcraft.com^$generichide
+searchdns.netcraft.com##.advert-tag
 
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
