@@ -126,7 +126,10 @@ searchdns.netcraft.com##.advert-tag
 ! openload.co
 ||downloatransfer.com^$popup
 ||npmpecd.com^$popup
-http://$popup,third-party,domain=openload.co
+|http://$popup,third-party,domain=openload.co
+
+! youtube.com
+/log_interaction?
 
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
