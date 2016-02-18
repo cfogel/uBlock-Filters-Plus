@@ -112,7 +112,7 @@ live.com###owaadbar
 @@||hstspreload.appspot.com^
 
 ! searchdns.netcraft.com
-@@||searchdns.netcraft.com^generichide
+@@||searchdns.netcraft.com^$generichide
 
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
