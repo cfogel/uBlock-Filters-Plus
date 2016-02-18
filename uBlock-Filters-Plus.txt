@@ -140,6 +140,9 @@ searchdns.netcraft.com##.advert-tag
 ||synhandler.net^
 ||tataget.ru^
 
+! dasolo.org
+/static/full-page-script.js$third-party
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
