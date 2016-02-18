@@ -197,6 +197,7 @@ gmx.net,web.de##TR.li.iba
 ||dprtb.com^
 ||bestoffertime.com^
 ||tags.tiqcdn.com^$third-party
+||trends.revcontent.com^$third-party
 ||sharethis.com^$third-party
 
 ! Courtesy of @jo2dan23
