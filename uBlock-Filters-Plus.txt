@@ -142,6 +142,7 @@ searchdns.netcraft.com##.advert-tag
 
 ! dasolo.org
 /static/full-page-script.js$third-party
+##.slide_likebox
 
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
