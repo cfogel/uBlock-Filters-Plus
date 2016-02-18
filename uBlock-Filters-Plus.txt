@@ -123,6 +123,10 @@ live.com###owaadbar
 @@||searchdns.netcraft.com^$generichide
 searchdns.netcraft.com##.advert-tag
 
+! openload.co
+||downloatransfer.com^$popup
+||npmpecd.com^$popup
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
