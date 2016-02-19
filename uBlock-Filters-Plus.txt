@@ -144,6 +144,13 @@ searchdns.netcraft.com##.advert-tag
 /static/full-page-script.js$third-party
 ##.slide_likebox
 
+! pics-money.ru
+||watrz.com^
+||piroji.com^
+||klivz.com^
+||yrsfs.com^
+||qrrgv.space^
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
