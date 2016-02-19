@@ -5,7 +5,7 @@ Contains filters specific to uBlock Origin (like popunder filters) and some filt
 
 Add the list from here: [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt&title=uBlock%20Filters%20%2B)
 
-Or here: [Filter lists from around the web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web#external-filter-lists-of-interest)
+Or here: [Filter lists from around the web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
 
 Direct link: https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
 
