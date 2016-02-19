@@ -151,6 +151,9 @@ searchdns.netcraft.com##.advert-tag
 ||yrsfs.com^
 ||qrrgv.space^
 
+! uploadshub.com
+##a[href^="http://ddownload39.club/"]
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
