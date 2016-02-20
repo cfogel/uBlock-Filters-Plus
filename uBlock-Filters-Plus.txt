@@ -117,8 +117,8 @@ live.com###owaadbar
 @@/js/abp.js?
 
 ! Experimental Anti-Adblock circumvention
-@@||popads.net/pop.js$script
 ||popads.net^
+@@||popads.net/pop.js$script
 
 ! mobilegeeks.de
 mobilegeeks.de###ha-footer
