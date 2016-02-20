@@ -158,6 +158,9 @@ searchdns.netcraft.com##.advert-tag
 ! uploadshub.com
 ##a[href^="http://ddownload39.club/"]
 
+! torrentfreak.com
+torrentfreak.com##ASIDE.widg.widget_text
+
 ! netzwelt.de
 ||zanox-affiliate.de^$popup
 netzwelt.de##.fi.stcl
