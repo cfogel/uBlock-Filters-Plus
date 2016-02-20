@@ -120,6 +120,9 @@ live.com###owaadbar
 @@||popads.net/pop.js$script
 ||popads.net^
 
+! mobilegeeks.de
+mobilegeeks.de###ha-footer
+
 ! hstspreload.appspot.com (some rare breakage, whitelisting does no harm)
 @@||hstspreload.appspot.com^$first-party
 
