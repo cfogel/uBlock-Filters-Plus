@@ -122,6 +122,7 @@ live.com###owaadbar
 
 ! mobilegeeks.de
 mobilegeeks.de###ha-footer
+mobilegeeks.de##DIV[style="background:#000000;"]
 
 ! hstspreload.appspot.com (some rare breakage, whitelisting does no harm)
 @@||hstspreload.appspot.com^$first-party
