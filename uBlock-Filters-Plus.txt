@@ -43,6 +43,9 @@
 ! Experimental
 ###infCP
 
+! hanime.tv
+||contentabc.com^$popunder,popup
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
