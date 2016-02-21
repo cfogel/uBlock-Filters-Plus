@@ -120,8 +120,9 @@ live.com###owaadbar
 @@/js/abp.js?
 
 ! Experimental Anti-Adblock circumvention
-||popads.net^
-@@||popads.net/pop.js$script
+! Commenting out for now since blocking pop.js seems to cause issues on just very few sites. Popads.net is still blocked through EasyList.
+! ||popads.net^
+! @@||popads.net/pop.js$script
 
 ! mobilegeeks.de
 mobilegeeks.de###ha-footer
