@@ -175,9 +175,9 @@ netzwelt.de##DIV[style="text-align: center; padding: 0px; border-color: transpar
 ! netzwelt.de###mhc + div[id][class]
 
 ! web.de/gmx.net
-||info.web.de^
-||info.gmx.net^
-web.de##.notification-alert.notification
+||info.web.de^$script
+||info.gmx.net^$script
+web.de##.notification-alert[data-notification-browser]
 ! https://forums.lanik.us/viewtopic.php?p=85100#p85100
 gmx.net,web.de##TR.ad-hint
 gmx.net,web.de##TR.iba-uncertain
