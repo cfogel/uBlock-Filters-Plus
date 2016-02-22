@@ -1,4 +1,4 @@
-**Only report if you're sure this is the place you're looking for and not https://forums.lanik.us**.
+**First make sure this is the place you're looking for and not https://forums.lanik.us**.
 
 **Use [the search](https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/search?q=&type=Issues&utf8=%E2%9C%93) before reporting to find if the site was already reported. Feel free to post additional information or if an ad has appeared again.**
 
