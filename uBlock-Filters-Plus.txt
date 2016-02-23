@@ -313,7 +313,6 @@ gmx.net,web.de##TR.li.iba
 ||yahoo.com/neo/logger
 ||yahoo.com/neo/mbfb?
 ||yahoo.com/pageview?
-||search.yahoo.com/cbcsc/
 ||zappos.com^*/pixel.png?
 ||zappos.com/event.cgi?
 ||zappos.com/err.cgi?
