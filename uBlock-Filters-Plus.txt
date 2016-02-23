@@ -62,9 +62,8 @@
 ||data.*.com^$document
 
 ! x3xtube.com
-popunder*$popunder,popup
-! Experimental
-popup*$popunder,popup
+/popunder.*$popunder,popup
+/popup.*$popunder,popup
 
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
