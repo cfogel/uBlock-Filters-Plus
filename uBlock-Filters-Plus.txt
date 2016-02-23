@@ -48,7 +48,6 @@
 
 ! hentaihaven.org
 ||trw12.com^$popunder,popup
-||^$popunder,popup
 
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
