@@ -63,7 +63,6 @@
 
 ! x3xtube.com
 /popunder.*$popunder,popup
-_popunder&*$popunder,popup
 /popup.*$popunder,popup
 
 ! blockadblock
@@ -215,7 +214,8 @@ gmx.net,web.de##TR.iba
 gmx.net,web.de##TR.li.iba-acceptable
 gmx.net,web.de##TR.li.iba
 
-! Filters of the forgotten source
+! Random filters
+_popunder&*$popunder,popup
 ||google-analytics.com^$popup,third-party
 
 ! Assortment of ad/tracking servers not found in Peter Lowe's
