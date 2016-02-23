@@ -49,6 +49,9 @@
 ! hentaihaven.org
 ||trw12.com^$popunder,popup
 
+! x3xtube.com
+popunder*$popunder,popup
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
