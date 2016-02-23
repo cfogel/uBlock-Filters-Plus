@@ -245,23 +245,13 @@ gmx.net,web.de##TR.li.iba
 ! Courtesy of @jo2dan23
 ! https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/commit/9e916c80bb32eef701e20ffb910530824633eb8d#commitcomment-16105873
 ||integrousmarketing.com^$third-party
-||getresponse.com^$third-party
-||investkit.com^$third-party
-||mytrafficmanagement.com^$third-party
 ||adrta.com^$third-party
 ||agilecrm.com^$third-party
 ||applovin.com^$third-party
-||rtk.io^$third-party
 ||zykko.com^$third-party
-||upsellit.com^$third-party
 ||adthrive.com^$third-party
 ||lostrabbitmedia.com^$third-party
 ||parkingcrew.net^$third-party
-||searchesinteractive.com^$document
-||searchinquire.com^$document
-||searchfusion.com^$document
-||hugedomains.com^$document
-||sedoparking.com^$document
 ||adtrackone.eu^$document
 ||ledradn.com^$third-party
 ||pxi.pub^$third-party
@@ -277,7 +267,6 @@ gmx.net,web.de##TR.li.iba
 ||admarketplace.net^
 ||track.reference.com^
 ||beacon.squixa.net^
-||beap-bc.yahoo.com^
 ||ampxchange.com^
 ||addwish.com^$third-party
 ||maxtraffic.com^$third-party
@@ -293,19 +282,15 @@ gmx.net,web.de##TR.li.iba
 ||snapengage.com^$third-party
 ||dthvdr9.com^$third-party
 ||ibsrv.net^$third-party
-||emailaptitude.com^$third-party
 ||myvisitors.se^$third-party
 ||afsanalytics.com^$third-party
 ||forcetrac.com^$third-party
 ||caanalytics.com^$third-party
 ||adsender.us^$third-party
 ||rmgserving.com^$third-party
-||href.li^$popup,third-party
 ||conviva.com^*/LivePassModuleMain_telemetry.swf
 ||cloudfront.net/is.gif?
 ||cloudfront.net/a.gif|
-||atdmt.com/event?
-||yimg.com^*/js/beacon-
 ||retargetapp.com/pixel.js?
 ||yimg.com^*/GlinkPing.aspx?
 ||amazonaws.com/wpanalytics/
@@ -317,7 +302,6 @@ gmx.net,web.de##TR.li.iba
 ||redditmedia.com/gtm/
 ||foursquare.com^*/logactions
 ||securepaynet.net/parked/
-||foursquare.com^*/logger
 ||yelp.com/ad_acknowledgment
 ||yelp.com^*/log_views
 ||yahoo.com/yabeacon?
@@ -354,7 +338,6 @@ gmx.net,web.de##TR.li.iba
 ||amazon.*/blank-pixel.
 ||amazon.*/metrics/log-$~image
 ||media-imdb.com/images/*/imdbads/1x1*.swf
-||paypalobjects.com^*/analytics.js
 ||imdb.com/tr/
 ||usps.com^*/blank.gif
 /ComscoreStreamSensePlugin.
