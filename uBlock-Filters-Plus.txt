@@ -63,6 +63,7 @@
 
 ! x3xtube.com
 /popunder.*$popunder,popup
+_popunder&*$popunder,popup
 /popup.*$popunder,popup
 
 ! blockadblock
