@@ -10,7 +10,7 @@ If there's something else you would like to report feel free to do so but the is
 
 **How to report:**
 
-As title use the domain where you found the ad. Examples:
+As the title use the domain where you found the ad/tracker or where a rule caused breakage. Examples:
 
 **`homepage.com`**
 
