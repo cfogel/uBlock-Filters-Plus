@@ -68,7 +68,7 @@ search.yahoo.com###right
 
 ! viptube.com
 ! https://forums.lanik.us/viewtopic.php?p=87128#p87128
-||vptbn.com^$popup
+||vptbn.com^$popup,third-party
 ||cnt.viptube.com^
 
 ! Unblocking video player
@@ -140,7 +140,7 @@ searchdns.netcraft.com##.advert-tag
 
 ! openload.co
 ||downloatransfer.com^$popup
-||npmpecd.com^$popup
+||npmpecd.com^$popup,third-party
 |http://$popup,third-party,domain=openload.co
 
 ! youtube.com
@@ -168,11 +168,11 @@ searchdns.netcraft.com##.advert-tag
 ! torrentfreak.com
 torrentfreak.com##ASIDE.widg.widget_text
 
-! To counter piwik.org in MVPS HOSTS. It makes no sense to block it since it's a local analytics tool.
+! To counter piwik.org in MVPS HOSTS. It makes no sense to block their site since it's a local analytics tool.
 @@||piwik.org^
 
 ! netzwelt.de
-||zanox-affiliate.de^$popup
+||zanox-affiliate.de^$popup,third-party
 netzwelt.de##.fi.stcl
 netzwelt.de##.ckch
 netzwelt.de##DIV#mr[style="width: auto; float: right;"]
@@ -300,7 +300,7 @@ gmx.net,web.de##TR.li.iba
 ||caanalytics.com^$third-party
 ||adsender.us^$third-party
 ||rmgserving.com^$third-party
-||href.li^$popup
+||href.li^$popup,third-party
 ||conviva.com^*/LivePassModuleMain_telemetry.swf
 ||cloudfront.net/is.gif?
 ||cloudfront.net/a.gif|
