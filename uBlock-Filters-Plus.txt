@@ -49,6 +49,18 @@
 ! hentaihaven.org
 ||trw12.com^$popunder,popup
 
+! 3movs.com
+@@||thankyouforadvertising.com/ads*.js
+||towardangelaosprey.com^
+||towardangelaosprey.com^$popunder,popup
+/adman/*$popunder,popup
+||trafficmagnates.com^
+||trafficmagnates.com^$popunder,popup
+/click-in.php?*$popunder,popup
+/arecl.js
+/click.php?*$popunder,popup
+||data.*.com^$document
+
 ! x3xtube.com
 popunder*$popunder,popup
 ! Experimental
