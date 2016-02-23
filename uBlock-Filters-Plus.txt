@@ -50,7 +50,7 @@
 ||trw12.com^$popunder,popup
 
 ! 3movs.com
-@@||thankyouforadvertising.com^*/ads*.js$script
+@@||thankyouforadvertising.com/ads*.js$script
 ||towardangelaosprey.com^
 ||towardangelaosprey.com^$popunder,popup
 /adman/*$popunder,popup
