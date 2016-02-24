@@ -11,6 +11,8 @@
 ||adnetworkperformance.com^$popunder,popup
 
 ! streamcloud.eu
+||anverlindo.info^
+|http://$xmlhttprequest,domain=streamcloud.eu
 ! https://forums.lanik.us/viewtopic.php?p=87061#p87061
 ||invernetter.info^
 ! https://github.com/gorhill/uBlock/issues/1053#issuecomment-182175494
@@ -193,6 +195,17 @@ torrentfreak.com##ASIDE.widg.widget_text
 
 ! 420chan.org
 ||cdn.420chan.org/sp/
+
+! allvid.ch
+/b?z=$script
+||descapita.com^
+||d29lpg037v41oq.cloudfront.net^
+/async_pixel?
+?pixel=
+tid=ad&
+||barlive.link^
+||downloatransfer.com^
+|http://*.cloudfront.net/$popup,third-party
 
 ! netzwelt.de
 ||zanox-affiliate.de^$popup,third-party
