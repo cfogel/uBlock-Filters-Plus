@@ -64,6 +64,10 @@
 ! x3xtube.com
 /popunder.$popunder,popup
 /popup.$popunder,popup
+/po1.php?
+||0jzxzd21.com^
+||adnium.com^
+x3xtube.com##[href^="http://join."]
 
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
