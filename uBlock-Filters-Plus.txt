@@ -159,8 +159,8 @@ mobilegeeks.de##DIV[style="background:#000000;"]
 searchdns.netcraft.com##.advert-tag
 
 ! openload.co
-||downloatransfer.com^$popup
-||npmpecd.com^$popup,third-party
+||downloatransfer.com^$popunder,popup
+||npmpecd.com^$popunder,popup,third-party
 |http://$popup,third-party,domain=openload.co
 
 ! youtube.com
@@ -353,7 +353,6 @@ _popunder&$popunder,popup
 ||itsme247.com^*/ga.js
 ||eztv.ag/ezimg/s/1/1/s.gif
 ||kastatic.com^*/blank.gif
-||youtube.com/csi_204?
 ||adobe.com^*/pixel.gif
 ||ebayrtm.com/clk?$image
 ||paypal.com^*/api/log
@@ -368,6 +367,7 @@ _popunder&$popunder,popup
 ||media-imdb.com/images/*/imdbads/1x1*.swf
 ||imdb.com/tr/
 ||usps.com^*/blank.gif
+/csi_204?
 /ComscoreStreamSensePlugin.
 /MOATAnalyticsPlugin.
 /NielsenPlugin.
