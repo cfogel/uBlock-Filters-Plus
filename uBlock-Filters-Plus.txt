@@ -221,7 +221,7 @@ gmx.net,web.de##TR.li.iba
 ! Random filters
 _popunder&$popunder,popup
 /popu/*$script
-/servlet/view/*$popup,popunder
+/servlet/view/*$popunder,popup
 ||google-analytics.com^$popup,third-party
 
 ! Assortment of ad/tracking servers not found in Peter Lowe's
