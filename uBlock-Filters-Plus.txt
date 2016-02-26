@@ -200,6 +200,9 @@ torrentfreak.com##ASIDE.widg.widget_text
 ! fux.com
 /adblockbanner$script
 
+! sharesix.com
+||sharesix.com/a/images/*.gif
+
 ! allvid.ch
 /b?z=$script
 ||descapita.com^
