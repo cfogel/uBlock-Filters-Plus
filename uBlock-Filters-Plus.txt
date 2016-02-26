@@ -118,8 +118,9 @@ auroravid.to,wholecloud.net###aad
 ###AdsByCurseBanner
 ||files.gamebanana.com/bitpit/opskins-gamebanana-*.jpg
 ! Experimental:
-/cdn-cgi/pe/bag2?r[]=http$xmlhttprequest
 ||cdm.cursecdn.com^$third-party
+! https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/issues/1#issuecomment-189073525
+! /cdn-cgi/pe/bag2?r[]=http$xmlhttprequest
 
 ! focus.de
 ||p5.focus.de/img/fotos/*/*/chef-aerger.jpg
