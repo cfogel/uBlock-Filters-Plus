@@ -71,6 +71,11 @@
 ||adnium.com^
 x3xtube.com##[href^="http://join."]
 
+! openload.co
+||downloatransfer.com^$popunder,popup
+||npmpecd.com^$popunder,popup,third-party
+|http://$popup,third-party,domain=openload.co
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
@@ -160,11 +165,6 @@ mobilegeeks.de##DIV[style="background:#000000;"]
 ! searchdns.netcraft.com (some rare breakage)
 @@||searchdns.netcraft.com^$generichide
 searchdns.netcraft.com##.advert-tag
-
-! openload.co
-||downloatransfer.com^$popunder,popup
-||npmpecd.com^$popunder,popup,third-party
-|http://$popup,third-party,domain=openload.co
 
 ! youtube.com
 /log_interaction?
