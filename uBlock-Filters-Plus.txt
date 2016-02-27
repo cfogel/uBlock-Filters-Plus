@@ -203,6 +203,10 @@ torrentfreak.com##ASIDE.widg.widget_text
 ! sharesix.com
 ||sharesix.com/a/images/*.gif
 
+! sh.st
+! To counter shorte.st in hpHosts’ Ad and tracking servers and Dan Pollock’s hosts file (unable to follow links).
+@@||static.shorte.st^$domain=sh.st
+
 ! allvid.ch
 /b?z=$script
 ||descapita.com^
