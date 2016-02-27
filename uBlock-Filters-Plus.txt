@@ -91,7 +91,7 @@ noticiasautomotivas.com.br##script:inject(bab-defuser.js)
 ! https://forums.lanik.us/viewtopic.php?p=84783#p84783
 ##[href^="http://r.search.yahoo.com/cbclk/"]
 ! Search ads
-search.yahoo.com###right
+! search.yahoo.com###right
 
 ! viptube.com
 ! https://forums.lanik.us/viewtopic.php?p=87128#p87128
