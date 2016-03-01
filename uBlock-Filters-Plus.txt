@@ -234,7 +234,7 @@ netzwelt.de##DIV[style="text-align: center; padding: 0px; border-color: transpar
 ! netzwelt.de###mhc + div[id][class]
 
 ! pornhub.com
-zone_id$subdocument,domain=www.pornhub.com,important
+zone_id$subdocument,third-party,domain=www.pornhub.com,important
 
 ! web.de/gmx.net
 ||info.web.de^$script
