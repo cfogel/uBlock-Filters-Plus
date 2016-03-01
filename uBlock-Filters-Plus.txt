@@ -233,6 +233,9 @@ netzwelt.de##DIV[style="text-align: center; padding: 0px; border-color: transpar
 ! https://github.com/gorhill/uBlock/issues/1366#issuecomment-182877512
 ! netzwelt.de###mhc + div[id][class]
 
+! pornhub.com
+zone_id$subdocument,domain=www.pornhub.com,important
+
 ! web.de/gmx.net
 ||info.web.de^$script
 ||info.gmx.net^$script
