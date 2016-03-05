@@ -42,6 +42,7 @@
 ||ticrite.com^$popunder,popup
 ||scandicas.com^
 ||scandicas.com^$popunder,popup
+/Redirect*MediaSegmentId$document
 ! Experimental
 ###infCP
 
