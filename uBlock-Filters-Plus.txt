@@ -241,6 +241,9 @@ zone_id$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.f
 ###su_flash_ec__0
 ###su_flash_ec__1
 
+! pornleech.com
+||cloudsdns.net^$script,domain=pornleech.com
+
 ! web.de/gmx.net
 ||info.web.de^$script
 ||info.gmx.net^$script
