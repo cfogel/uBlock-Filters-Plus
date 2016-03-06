@@ -7,4 +7,4 @@ Add the list from here: [subscribe](https://subscribe.adblockplus.org/?location=
 
 Direct link: https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
 
-Open a new issue if you want a filter to be added/changed/removed but read this first: [CONTRIBUTING.md](https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/blob/master/CONTRIBUTING.md)
+Open a new issue if you want a filter to be added, changed or removed but read this first: [CONTRIBUTING.md](https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/blob/master/CONTRIBUTING.md)
