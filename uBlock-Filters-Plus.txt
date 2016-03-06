@@ -223,7 +223,7 @@ torrentfreak.com##ASIDE.widg.widget_text
 tid=ad&
 ||barlive.link^
 ||downloatransfer.com^
-|http://*.cloudfront.net/$popup,third-party
+||cloudfront.net^$popup,third-party,domain=allvid.ch
 
 ! netzwelt.de
 ||zanox-affiliate.de^$popup,third-party
