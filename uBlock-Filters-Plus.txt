@@ -246,6 +246,9 @@ zone_id$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.f
 ! pornleech.com
 |http://$domain=pornleech.com,third-party,script
 
+! imgfantasy.com
+|http://$domain=imgfantasy.com,third-party,script
+
 ! web.de/gmx.net
 ||info.web.de^$script
 ||info.gmx.net^$script
