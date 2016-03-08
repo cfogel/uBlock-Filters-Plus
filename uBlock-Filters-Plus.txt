@@ -6,9 +6,9 @@
 ! adf.ly
 ! https://github.com/gorhill/uBlock/issues/1381#issuecomment-184059606
 ||adplxmd.com^
-||adplxmd.com^$popunder,popup
+||adplxmd.com^$popup
 ||adnetworkperformance.com^
-||adnetworkperformance.com^$popunder,popup
+||adnetworkperformance.com^$popup
 
 ! streamcloud.eu
 ||anverlindo.info^
@@ -17,47 +17,47 @@
 ||invernetter.info^
 ! https://github.com/gorhill/uBlock/issues/1053#issuecomment-182175494
 ||trimpur.com^
-||trimpur.com^$popunder,popup
+||trimpur.com^$popup
 ||signetter.com^
-||signetter.com^$popunder,popup
+||signetter.com^$popup
 
 ! promptfile.com
 ||oratosaeron.com^
-||oratosaeron.com^$popunder,popup
+||oratosaeron.com^$popup
 
 ! fantasti.cc
 ||officerrecordscale.info^
-||officerrecordscale.info^$popunder,popup
+||officerrecordscale.info^$popup
 
 ! revclouds.com
 ||cytochemistryrecitativewrasse.com^
-||cytochemistryrecitativewrasse.com^$popunder,popup
+||cytochemistryrecitativewrasse.com^$popup
 ||finishclueobscure.info^
-||finishclueobscure.info^$popunder,popup
+||finishclueobscure.info^$popup
 ||zerem.*.info^
-||zerem.*.info^$popunder,popup
+||zerem.*.info^$popup
 
 ! torrentz.eu
 ||ticrite.com^
-||ticrite.com^$popunder,popup
+||ticrite.com^$popup
 ||scandicas.com^
-||scandicas.com^$popunder,popup
+||scandicas.com^$popup
 /Redirect*MediaSegmentId$document
 ! Experimental
 ###infCP
 
 ! hanime.tv
-||contentabc.com^$popunder,popup
+||contentabc.com^$popup
 
 ! hentaihaven.org
-||trw12.com^$popunder,popup
+||trw12.com^$popup
 
 ! 3movs.com
 ||towardangelaosprey.com^
-||towardangelaosprey.com^$popunder,popup
+||towardangelaosprey.com^$popup
 /adman/*$popunder,popup
 ||trafficmagnates.com^
-||trafficmagnates.com^$popunder,popup
+||trafficmagnates.com^$popup
 /click-in.php?$popunder,popup
 /arecl.js
 /click.php?$popunder,popup
@@ -72,8 +72,8 @@
 x3xtube.com##[href^="http://join."]
 
 ! openload.co
-||downloatransfer.com^$popunder,popup
-||npmpecd.com^$popunder,popup,third-party
+||downloatransfer.com^$popup
+||npmpecd.com^$popup,third-party
 |http://$popup,third-party,domain=openload.co
 
 ! Random filters
