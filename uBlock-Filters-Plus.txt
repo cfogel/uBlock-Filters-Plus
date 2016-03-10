@@ -204,7 +204,9 @@ torrentfreak.com##ASIDE.widg.widget_text
 ||cdn.420chan.org/sp/
 
 ! fux.com
-/adblockbanner$script
+/adblockbanner*$script
+/popadblock*$script
+/adblockpopunder*$script
 
 ! sharesix.com
 ||sharesix.com/a/images/*.gif
