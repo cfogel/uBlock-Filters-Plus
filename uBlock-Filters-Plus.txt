@@ -283,6 +283,7 @@ _popunder&$popunder,popup
 ||zeroredirect10.com^
 ||dprtb.com^
 ||bestoffertime.com^
+||trklnks.com^
 ||tags.tiqcdn.com^$third-party
 ||trends.revcontent.com^$third-party
 ||sharethis.com^$third-party
