@@ -405,20 +405,13 @@ _popunder&$popunder,popup
 /cdn-cgi/pe/bag2?*adstract.com
 ##a[href^="http://wct.link/click"]
 
-! eff.org
-! https://forums.lanik.us/viewtopic.php?p=86037#p86037
-@@||eff.org^$generichide
-
-! freenet.de
-@@||firebaseapp.com/adpoint.js?_=$script
-
-! startpage.com
-@@/js/abp.js?
-
 ! Experimental Anti-Adblock circumvention
 ! Commenting out for now since blocking pop.js seems to cause issues on just very few sites. Popads.net is still blocked through EasyList.
 ! ||popads.net^
 ! @@||popads.net/pop.js$script
+
+! startpage.com
+@@/js/abp.js?
 
 ! hstspreload.appspot.com (some rare breakage, whitelisting does no harm)
 @@||hstspreload.appspot.com^$first-party
@@ -427,6 +420,14 @@ _popunder&$popunder,popup
 @@||searchdns.netcraft.com^$generichide
 searchdns.netcraft.com##.advert-tag
 
+! freenet.de
+@@||firebaseapp.com/adpoint.js?_=$script
+
+! eff.org
+! https://forums.lanik.us/viewtopic.php?p=86037#p86037
+@@||eff.org^$generichide
+
+! piwik.org
 ! To counter piwik.org in MVPS HOSTS. It makes no sense to block their site since it's a local analytics tool.
 @@||piwik.org^$first-party
 
@@ -435,5 +436,6 @@ searchdns.netcraft.com##.advert-tag
 @@||static.shorte.st^$domain=sh.st
 
 ! q.gs broken
+! To counter adf.ly in Peter Lowe’s Ad server list (unable to follow links).
 @@||static.adf.ly^$domain=q.gs
 @@||cdn.adf.ly^$domain=q.gs
