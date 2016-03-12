@@ -430,3 +430,7 @@ searchdns.netcraft.com##.advert-tag
 ! sh.st
 ! To counter shorte.st in hpHosts’ Ad and tracking servers and Dan Pollock’s hosts file (unable to follow links).
 @@||static.shorte.st^$domain=sh.st
+
+! q.gs broken
+@@||static.adf.ly^$domain=q.gs
+@@||cdn.adf.ly^$domain=q.gs
