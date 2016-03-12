@@ -227,6 +227,9 @@ gmx.net,web.de##TR.iba
 gmx.net,web.de##TR.li.iba-acceptable
 gmx.net,web.de##TR.li.iba
 
+! anabolicmen.com
+www.anabolicmen.com###text-55
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
