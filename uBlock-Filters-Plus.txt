@@ -30,7 +30,7 @@
 ||officerrecordscale.info^$popup
 ||gmyze.com^
 ||fantasti.cc*/*track.php
-/antiadblock$script
+/antiadblock*$script
 
 ! revclouds.com
 ||cytochemistryrecitativewrasse.com^
@@ -172,9 +172,9 @@ torrentfreak.com##ASIDE.widg.widget_text
 ||cdn.420chan.org/sp/
 
 ! fux.com
-/adblockbanner$script
-/popadblock$script
-/adblockpopunder$script
+/adblockbanner*$script
+/popadblock*$script
+/adblockpopunder*$script
 
 ! sharesix.com
 ||sharesix.com/a/images/*.gif
