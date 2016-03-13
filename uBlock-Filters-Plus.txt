@@ -287,6 +287,7 @@ _popunder&$popunder,popup
 ||dprtb.com^
 ||bestoffertime.com^
 ||trklnks.com^
+||duckcash.eu^
 ||tags.tiqcdn.com^$third-party
 ||trends.revcontent.com^$third-party
 ||sharethis.com^$third-party
