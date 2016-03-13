@@ -28,6 +28,7 @@
 ! fantasti.cc
 ||officerrecordscale.info^
 ||officerrecordscale.info^$popup
+||gmyze.com^
 
 ! revclouds.com
 ||cytochemistryrecitativewrasse.com^
