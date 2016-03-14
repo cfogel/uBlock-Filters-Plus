@@ -293,6 +293,7 @@ _popunder&$popunder,popup
 ||bestoffertime.com^
 ||trklnks.com^
 ||duckcash.eu^
+||voluumtrk.com^
 ||tags.tiqcdn.com^$third-party
 ||trends.revcontent.com^$third-party
 ||sharethis.com^$third-party
