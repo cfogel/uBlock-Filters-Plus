@@ -294,6 +294,7 @@ _popunder&$popunder,popup
 ||trklnks.com^
 ||duckcash.eu^
 ||voluumtrk.com^
+||november-lax.com^
 ||tags.tiqcdn.com^$third-party
 ||trends.revcontent.com^$third-party
 ||sharethis.com^$third-party
