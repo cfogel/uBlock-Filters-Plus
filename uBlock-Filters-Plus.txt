@@ -239,7 +239,7 @@ www.anabolicmen.com###text-55
 ||alphamoneygenerator.com^$popup,third-party
 
 ! uploadrocket.net
-http$domain=uploadrocket.net,script,third-party
+|http$domain=uploadrocket.net,script,third-party
 @@||api.solvemedia.com^$script,domain=uploadrocket.net
 
 ! blockadblock
