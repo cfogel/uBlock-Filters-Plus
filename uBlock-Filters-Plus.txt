@@ -241,6 +241,9 @@ www.anabolicmen.com###text-55
 |http*$domain=uploadrocket.net,script,third-party
 @@||api.solvemedia.com^$script,domain=uploadrocket.net
 
+! flashx.cc
+##a[href*="/afu.php"]
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
