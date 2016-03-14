@@ -12,7 +12,7 @@
 
 ! streamcloud.eu
 ||anverlindo.info^
-|http$xmlhttprequest,domain=streamcloud.eu
+|http*$xmlhttprequest,domain=streamcloud.eu
 ! https://forums.lanik.us/viewtopic.php?p=87061#p87061
 ||invernetter.info^
 ! https://github.com/gorhill/uBlock/issues/1053#issuecomment-182175494
@@ -77,7 +77,7 @@ x3xtube.com##[href^="http://join."]
 ! openload.co
 ||downloatransfer.com^$popup
 ||npmpecd.com^$popup,third-party
-|http$popup,third-party,domain=openload.co
+|http*$popup,third-party,domain=openload.co
 
 ! primewire.ag
 ##[href^="http://engine.4dsply.com/"]
@@ -105,11 +105,10 @@ auroravid.to,wholecloud.net###aad
 ||proxy*.amazonaws.com/bait|
 
 ! userscloud.com
-|http$popup,third-party,domain=userscloud.com
-|https$popup,third-party,domain=userscloud.com
+|http*$popup,third-party,domain=userscloud.com
 
 ! al.ly
-||http$subdocument,domain=al.ly,third-party
+||http*$subdocument,domain=al.ly,third-party
 
 ! gamebanana.com
 ###AdsByCurseBanner
@@ -130,7 +129,7 @@ auroravid.to,wholecloud.net###aad
 ||free-state.work^$popup
 
 ! search.disconnect.me
-|https$domain=search.disconnect.me,third-party
+|http*$domain=search.disconnect.me,third-party
 search.disconnect.me###premium-protection
 
 ! textmechanic.com
@@ -147,7 +146,7 @@ mobilegeeks.de##DIV[style="background:#000000;"]
 /log_interaction?
 
 ! newimagepost.com
-|http$domain=newimagepost.com,third-party,script
+|http*$domain=newimagepost.com,third-party,script
 ||synhandler.net^
 ||tataget.ru^
 
@@ -210,10 +209,10 @@ zone_id$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.f
 ###su_flash_ec__1
 
 ! pornleech.com
-|http$domain=pornleech.com,third-party,script
+|http*$domain=pornleech.com,third-party,script
 
 ! imgfantasy.com
-|http$domain=imgfantasy.com,third-party,script
+|http*$domain=imgfantasy.com,third-party,script
 
 ! web.de/gmx.net
 ||info.web.de^$script
@@ -239,7 +238,7 @@ www.anabolicmen.com###text-55
 ||alphamoneygenerator.com^$popup,third-party
 
 ! uploadrocket.net
-|http$domain=uploadrocket.net,script,third-party
+|http*$domain=uploadrocket.net,script,third-party
 @@||api.solvemedia.com^$script,domain=uploadrocket.net
 
 ! blockadblock
