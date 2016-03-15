@@ -204,6 +204,7 @@ zone_id$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.f
 
 ! monova.org
 ##a[href^="http://data.oileddaintiessunset.info/"]
+data:image/jpeg;base64$domain=monova.org
 
 ! filmstreamings.biz
 ###su_flash_ec__0
