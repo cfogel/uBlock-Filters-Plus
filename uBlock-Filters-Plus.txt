@@ -78,6 +78,7 @@ x3xtube.com##[href^="http://join."]
 ||downloatransfer.com^$popup
 ||npmpecd.com^$popup,third-party
 |http*$popup,third-party,domain=openload.co
+||logdev.openload.co/log$xmlhttprequest,important
 
 ! primewire.ag
 ##[href^="http://engine.4dsply.com/"]
