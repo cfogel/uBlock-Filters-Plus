@@ -76,7 +76,7 @@ x3xtube.com##[href^="http://join."]
 
 ! openload.co
 ||downloatransfer.com^$popup
-||npmpecd.com^$popup,third-party
+||npmpecd.com^$popup,document
 |http*$popup,third-party,domain=openload.co
 ||logdev.openload.co/log$xmlhttprequest,important
 
