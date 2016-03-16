@@ -237,7 +237,7 @@ www.anabolicmen.com###text-55
 
 ! alluc.ee
 ! https://forums.lanik.us/viewtopic.php?p=88894#p88894
-||alphamoneygenerator.com^
+||alphamoneygenerator.com^document
 ||alphamoneygenerator.com^$popup,third-party
 
 ! uploadrocket.net
