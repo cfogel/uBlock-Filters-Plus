@@ -482,7 +482,7 @@ _popunder&$document
 /msnpopsingle2.$document
 /msnpopup.$document
 /msnpopup4.$document
-/plugins/wp_actionpop/*$document
+/wp_actionpop/*$document
 /pop-under.$document
 /pop2.$document
 /pop?tid=$document
@@ -530,10 +530,10 @@ _popunder&$document
 /popupunder.$document
 /streamatepop.$document
 /VHDpoppingModels/*$document
-/wp-content/plugins/m-wp-popup/*$document
-/wp-content/plugins/platinumpopup/*$document
-/wp-content/plugins/wp-super-popup-pro/*$document
-/wp-content/plugins/wp-super-popup/*$document
+/m-wp-popup/*$document
+/platinumpopup/*$document
+/wp-super-popup-pro/*$document
+/wp-super-popup/*$document
 /wp-popup-scheduler/*$document
 ?PopAd=$document
 ?type=oas_pop&$document
@@ -599,7 +599,7 @@ _popupunder.$document
 ?zoneid=*_bannerid=$document
 _popunder+$document
 /clickpop.$document
-/plugins/layered-popups/*$document
+/layered-popups/*$document
 /poptest.$document
 /static/js/pop*.$document
 /sendspace-pop.$document
