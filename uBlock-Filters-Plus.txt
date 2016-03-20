@@ -68,7 +68,6 @@
 
 ! x3xtube.com
 /popunder.$popunder,popup
-/popup.$popunder,popup
 /po1.php?
 ||0jzxzd21.com^
 ||adnium.com^
