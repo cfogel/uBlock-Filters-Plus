@@ -67,7 +67,6 @@
 ||data.*.com^$document
 
 ! x3xtube.com
-/popunder.$document
 /popup.$document
 /po1.php?
 ||0jzxzd21.com^
