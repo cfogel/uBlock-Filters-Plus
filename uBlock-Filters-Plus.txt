@@ -589,8 +589,6 @@ _popupunder.$document
 /spopunder^$document
 /srvclk.php?$document
 /yesbaby.$document
-://ads.$document
-://adv.$document
 =popunder&$document
 =popunders&$document
 ?AdUrl=$document
