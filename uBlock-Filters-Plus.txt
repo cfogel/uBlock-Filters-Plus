@@ -609,8 +609,8 @@ _popunder+$document
 ?popup:msp_$document
 ^utm_medium=popunder^$document
 ! Experimental
-/pop.$document
-/ad.php$document
+! /pop.$document
+! /ad.php$document
 
 ! Experimental Anti-Adblock circumvention
 ! Commenting out for now since blocking pop.js seems to cause issues on just very few sites. Popads.net is still blocked through EasyList.
