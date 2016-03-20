@@ -425,7 +425,6 @@ _popunder&$document
 /index.php?service=stats&action=collect&
 /basePopunder.js
 /px.js?ch=$script
-/?placement=*&redirect$document
 /cdn-cgi/pe/bag2?*adstract.com
 ##a[href^="http://wct.link/click"]
 
