@@ -58,16 +58,16 @@
 ! 3movs.com
 ||towardangelaosprey.com^
 ||towardangelaosprey.com^$popup
-/adman/*$popunder,popup
+/adman/*$document
 ||trafficmagnates.com^
 ||trafficmagnates.com^$popup
-/click-in.php?$popunder,popup
+/click-in.php?$document
 /arecl.js
-/click.php?$popunder,popup
+/click.php?$document
 ||data.*.com^$document
 
 ! x3xtube.com
-/popunder.$popunder,popup
+/popunder.$document
 /popup.$document
 /po1.php?
 ||0jzxzd21.com^
@@ -256,9 +256,9 @@ www.anabolicmen.com###text-55
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
 
 ! Random filters
-_popunder&$popunder,popup
+_popunder&$document
 /popu/*$script
-/servlet/view/*$popunder,popup
+/servlet/view/*$document
 ||google-analytics.com^$popup,third-party
 
 ! Assortment of ad/tracking servers not found in Peter Lowe's
