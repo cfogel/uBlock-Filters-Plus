@@ -259,6 +259,9 @@ _popunder&$document
 /popu/*$script
 /servlet/view/*$document
 ||google-analytics.com^$popup,third-party
+||tags.tiqcdn.com^$script,third-party
+||revcontent.com^$script,third-party
+||sharethis.com^$script,third-party
 
 ! Assortment of ad/tracking servers not found in Peter Lowe's
 ||directrev.com^
@@ -307,9 +310,6 @@ _popunder&$document
 ||duckcash.eu^
 ||voluumtrk.com^
 ||november-lax.com^
-||tags.tiqcdn.com^$third-party
-||trends.revcontent.com^$third-party
-||sharethis.com^$third-party
 
 ! Courtesy of @jo2dan23
 ! https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/commit/9e916c80bb32eef701e20ffb910530824633eb8d#commitcomment-16105873
