@@ -250,6 +250,9 @@ www.anabolicmen.com###text-55
 ||schneevonmorgen.com^
 ||svonm.com^
 
+! the-parallax.com
+/Avast_*_Generic_*_WebBanner*.jpg$image
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
@@ -259,7 +262,6 @@ _popunder&$document
 /popu/*$script
 /servlet/view/*$document
 ||google-analytics.com^$popup,third-party
-||tags.tiqcdn.com^$script,third-party
 ||revcontent.com^$script,third-party
 ||sharethis.com^$script,third-party
 
