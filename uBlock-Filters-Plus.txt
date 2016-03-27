@@ -11,6 +11,7 @@
 ||adnetworkperformance.com^$popup
 ||adverkeyz.com^
 ||adverkeyz.com^$popup
+||adf.ly/puopen.$popup,important
 
 ! streamcloud.eu
 ||anverlindo.info^
