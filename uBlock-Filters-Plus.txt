@@ -9,6 +9,8 @@
 ||adplxmd.com^$popup
 ||adnetworkperformance.com^
 ||adnetworkperformance.com^$popup
+||adverkeyz.com^
+||adverkeyz.com^$popup
 
 ! streamcloud.eu
 ||anverlindo.info^
@@ -627,8 +629,13 @@ _popunder+$document
 /werbepopup/*$document
 ?popup:msp_$document
 ^utm_medium=popunder^$document
+! Created by myself
+/adserving$document
+/puopen$document
+/popunder$document
 ! Experimental
-! /pop.$document
+/trk/*$document
+/pop.php$document
 ! /ad.php$document
 
 ! Experimental Anti-Adblock circumvention
