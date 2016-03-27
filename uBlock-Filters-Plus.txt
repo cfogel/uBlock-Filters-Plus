@@ -280,9 +280,7 @@ noticiasautomotivas.com.br##script:inject(bab-defuser.js)
 openload.us##script:inject(bab-defuser.js)
 
 ! Random filters
-_popunder&$document
 /popu/*$script
-/servlet/view/*$document
 ||google-analytics.com^$popup,third-party
 ||revcontent.com^$script,third-party
 ||sharethis.com^$script,third-party
@@ -634,6 +632,8 @@ _popunder+$document
 /adserving$document
 /puopen$document
 /popunder$document
+_popunder&$document
+/servlet/view/*$document
 ! Experimental
 /trk/*$document
 /pop.php$document
