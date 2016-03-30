@@ -89,14 +89,17 @@ primewire.ag##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'special_link', '
 primewire.ag##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'big_button', 'bt_watch_now']);"]
 primewire.ag##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'special_link', 'sponsor_host']);"]
 primewire.ag##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'big_button', 'bt_stream']);"]
+primewire.ag##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'bottom_aff_link']);"]
 primewire.org##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'special_link', 'promo_host']);"]
 primewire.org##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'big_button', 'bt_watch_now']);"]
 primewire.org##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'special_link', 'sponsor_host']);"]
 primewire.org##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'big_button', 'bt_stream']);"]
+primewire.org##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'bottom_aff_link']);"]
 primewire.in##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'special_link', 'promo_host']);"]
 primewire.in##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'big_button', 'bt_watch_now']);"]
 primewire.in##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'special_link', 'sponsor_host']);"]
 primewire.in##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'big_button', 'bt_stream']);"]
+primewire.in##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'bottom_aff_link']);"]
 /clicktag.engine?$document,popup
 /landing?refererId=$document,popup
 http*$xmlhttprequest,domain=primewire.ag|primewire.in|primewire.org,third-party
