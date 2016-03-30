@@ -85,6 +85,10 @@ x3xtube.com##[href^="http://join."]
 
 ! primewire.ag
 ##[href^="http://engine.4dsply.com/"]
+/clicktag.engine?$document,popup
+/landing?refererId=$document,popup
+http*$xmlhttprequest,domain=primewire.ag|primewire.in|primewire.org,third-party
+http*$script,domain=primewire.org,third-party
 ! https://github.com/gorhill/uBlock/issues/1142#issue-124251618
 ||branchroughlend.info^
 
