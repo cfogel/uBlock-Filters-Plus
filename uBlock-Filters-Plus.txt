@@ -275,6 +275,9 @@ www.anabolicmen.com###text-55
 
 ! explosm.net
 ! To counter @@||my.hellobar.com^$script,third-party in EasyList.
+! https://forums.lanik.us/viewtopic.php?f=62&t=26886
+! https://forums.lanik.us/viewtopic.php?f=62&t=25366
+! https://forums.lanik.us/viewtopic.php?f=62&t=25489
 ||my.hellobar.com^$script,third-party,important
 
 ! blockadblock
