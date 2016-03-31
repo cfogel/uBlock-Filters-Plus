@@ -85,6 +85,7 @@ x3xtube.com##[href^="http://join."]
 
 ! primewire.ag
 ##[href^="http://engine.4dsply.com/"]
+##[href^="http://watch.primewire.ag"]
 ##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'special_link', 'promo_host']);"]
 ##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'special_link', 'sponsor_host']);"]
 ##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'bottom_aff_link']);"]
