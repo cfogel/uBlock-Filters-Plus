@@ -89,8 +89,8 @@ x3xtube.com##[href^="http://join."]
 ##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'special_link', 'promo_host']);"]
 ##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'special_link', 'sponsor_host']);"]
 ##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'bottom_aff_link']);"]
-primewire.ag,primewire.in,primewire.org##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'big_button', 'bt_watch_now']);"]
-primewire.ag,primewire.in,primewire.org##[onclick="_gaq.push(['_trackEvent', 'flat_zone', 'big_button', 'bt_stream']);"]
+primewire.ag,primewire.in,primewire.org##[onclick*="'bt_watch_now'"]
+primewire.ag,primewire.in,primewire.org##[onclick*="'bt_stream'"]
 /clicktag.engine?$document,popup
 /landing?refererId=$document,popup
 http*$xmlhttprequest,domain=primewire.ag|primewire.in|primewire.org,third-party
@@ -263,6 +263,8 @@ www.anabolicmen.com###text-55
 ! chip.de
 ||schneevonmorgen.com^
 ||svonm.com^
+! Hides adware installer link
+chip.de##[href^="javascript:DSinitDl"]
 
 ! the-parallax.com
 /Avast_*_Generic_*_WebBanner*.jpg$image
