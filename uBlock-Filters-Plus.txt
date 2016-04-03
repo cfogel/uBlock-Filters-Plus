@@ -15,7 +15,7 @@
 
 ! streamcloud.eu
 ||anverlindo.info^
-|http*$xmlhttprequest,domain=streamcloud.eu
+||http*$xmlhttprequest,domain=streamcloud.eu
 ! https://forums.lanik.us/viewtopic.php?p=87061#p87061
 ||invernetter.info^
 ! https://github.com/gorhill/uBlock/issues/1053#issuecomment-182175494
@@ -80,7 +80,7 @@ x3xtube.com##[href^="http://join."]
 ! openload.co
 ||downloatransfer.com^$popup
 ||npmpecd.com^$popup,document
-|http*$popup,third-party,domain=openload.co
+||http*$popup,third-party,domain=openload.co
 ||logdev.openload.co/log$xmlhttprequest,important
 
 ! primewire.ag
@@ -93,8 +93,8 @@ primewire.ag,primewire.in,primewire.org##[onclick*="'bt_watch_now'"]
 primewire.ag,primewire.in,primewire.org##[onclick*="'bt_stream'"]
 /clicktag.engine?$document,popup
 /landing?refererId=$document,popup
-http*$xmlhttprequest,domain=primewire.ag|primewire.in|primewire.org,third-party
-http*$script,domain=primewire.org,third-party
+|http*$xmlhttprequest,domain=primewire.ag|primewire.in|primewire.org,third-party
+|http*$script,domain=primewire.org,third-party
 ! https://github.com/gorhill/uBlock/issues/1142#issue-124251618
 ||branchroughlend.info^
 
@@ -119,10 +119,10 @@ auroravid.to,wholecloud.net###aad
 ||proxy*.amazonaws.com/bait|
 
 ! userscloud.com
-|http*$popup,third-party,domain=userscloud.com
+||http*$popup,third-party,domain=userscloud.com
 
 ! al.ly
-||http*$subdocument,domain=al.ly,third-party
+|||http*$subdocument,domain=al.ly,third-party
 
 ! gamebanana.com
 ###AdsByCurseBanner
@@ -144,7 +144,7 @@ auroravid.to,wholecloud.net###aad
 ||free-state.work^$popup
 
 ! search.disconnect.me
-|http*$domain=search.disconnect.me,third-party
+||http*$domain=search.disconnect.me,third-party
 search.disconnect.me###premium-protection
 
 ! textmechanic.com
@@ -161,7 +161,7 @@ mobilegeeks.de##DIV[style="background:#000000;"]
 /log_interaction?
 
 ! newimagepost.com
-|http*$domain=newimagepost.com,third-party,script
+||http*$domain=newimagepost.com,third-party,script
 ||synhandler.net^
 ||tataget.ru^
 
@@ -225,10 +225,10 @@ data:image/jpeg;base64$domain=monova.org
 ###su_flash_ec__1
 
 ! pornleech.com
-|http*$domain=pornleech.com,third-party,script
+||http*$domain=pornleech.com,third-party,script
 
 ! imgfantasy.com
-|http*$domain=imgfantasy.com,third-party,script
+||http*$domain=imgfantasy.com,third-party,script
 
 ! web.de/gmx.net
 ||info.web.de^$script
@@ -254,7 +254,7 @@ www.anabolicmen.com###text-55
 ||alphamoneygenerator.com^$popup,third-party
 
 ! uploadrocket.net
-|http*$domain=uploadrocket.net,script,third-party
+||http*$domain=uploadrocket.net,script,third-party
 @@||api.solvemedia.com^$script,domain=uploadrocket.net
 
 ! flashx.cc
@@ -263,6 +263,7 @@ www.anabolicmen.com###text-55
 ! chip.de
 ||schneevonmorgen.com^
 ||svonm.com^
+chip.de###sparwelt_cont
 ! Hides adware installer link
 chip.de##[href^="javascript:DSinitDl"]
 
@@ -291,6 +292,9 @@ chip.de##[href^="javascript:DSinitDl"]
 ! https://forums.lanik.us/viewtopic.php?f=62&t=25366
 ! https://forums.lanik.us/viewtopic.php?f=62&t=25489
 ||my.hellobar.com^$script,third-party,important
+
+! xhamster.com
+&adb=$subdocument
 
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
