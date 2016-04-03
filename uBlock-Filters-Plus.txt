@@ -294,7 +294,7 @@ chip.de##[href^="javascript:DSinitDl"]
 ||my.hellobar.com^$script,third-party,important
 
 ! xhamster.com
-&adb=$subdocument
+&adb=$subdocument,other
 
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
