@@ -265,6 +265,7 @@ www.anabolicmen.com###text-55
 ||svonm.com^
 chip.de###sparwelt_cont
 ##a[href="http://www.chip.de/amazon_prime"]
+##[href^="http://x.chip.de/fs24/"]
 ! Hides adware installer link
 chip.de##[href^="javascript:DSinitDl"]
 
