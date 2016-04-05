@@ -264,6 +264,7 @@ www.anabolicmen.com###text-55
 ||schneevonmorgen.com^
 ||svonm.com^
 chip.de###sparwelt_cont
+##a[href="http://www.chip.de/amazon_prime"]
 ! Hides adware installer link
 chip.de##[href^="javascript:DSinitDl"]
 
@@ -296,6 +297,12 @@ chip.de##[href^="javascript:DSinitDl"]
 ! xhamster.com
 &adb=$subdocument,other
 
+! windows.microsoft.com
+###NotificationUpgradeWin81and7NonSupport
+
+! heise.de
+heise.de###bannerzone
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
@@ -303,6 +310,7 @@ noticiasautomotivas.com.br##script:inject(bab-defuser.js)
 openload.us##script:inject(bab-defuser.js)
 
 ! Random filters
+###adb-note
 /popu/*$script
 ||google-analytics.com^$popup,third-party
 ||revcontent.com^$script,third-party
