@@ -68,6 +68,7 @@
 /click-in.php?$document
 /arecl.js
 /click.php?$document
+||data.*.com^$document
 
 ! x3xtube.com
 /popup.$document
