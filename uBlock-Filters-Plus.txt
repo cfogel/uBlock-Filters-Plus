@@ -676,10 +676,6 @@ _popunder&$document
 ! ||popads.net^
 ! @@||popads.net/pop.js$script
 
-! dreamamateurs.com
-! Experimental Anti-Adblock circumvention
-@@||adss.*advertise*.com/ads300x250.js|$script
-
 ! startpage.com
 @@/js/abp.js?
 
