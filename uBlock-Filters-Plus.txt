@@ -145,6 +145,7 @@ auroravid.to,wholecloud.net###aad
 ! search.disconnect.me
 |http*$domain=search.disconnect.me,third-party
 search.disconnect.me###premium-protection
+search.disconnect.me##.ad
 
 ! textmechanic.com
 textmechanic.com##.patreon
