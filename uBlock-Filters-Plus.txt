@@ -304,6 +304,17 @@ chip.de##[href^="javascript:DSinitDl"]
 ! heise.de
 heise.de###bannerzone
 
+! hdzog.com
+##a[href*="/_b3.php?url="]
+##a[href^="/adb/"]
+
+! pornhd.com
+pornhd.com##.zone.phdZone
+
+! hiqqu.xxx
+@@||hiqqu.xxx/*ad$script
+||hiqqu.xxx/static/scripts.js
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
