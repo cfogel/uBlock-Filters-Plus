@@ -121,7 +121,10 @@ auroravid.to,wholecloud.net###aad
 |http*$popup,third-party,domain=userscloud.com
 
 ! al.ly
-|http*$subdocument,domain=al.ly,third-party
+||wordgetboo.com^$popup
+||marketing.al.ly^
+||d4bsxdtgtmhxt.cloudfront.net^
+
 
 ! gamebanana.com
 ###AdsByCurseBanner
