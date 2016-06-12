@@ -312,6 +312,7 @@ heise.de###bannerzone
 
 ! pornhd.com
 pornhd.com##.zone.phdZone
+pornhd.com##.video-thumb-ad-zone
 
 ! hiqqu.xxx
 @@||hiqqu.xxx/*ad$script
