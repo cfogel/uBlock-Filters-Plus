@@ -34,6 +34,7 @@
 ||gmyze.com^
 ||fantasti.cc*/*track.php
 /antiadblock*$script
+##a[href*="/_b2.php?url="]
 
 ! revclouds.com
 ||cytochemistryrecitativewrasse.com^
