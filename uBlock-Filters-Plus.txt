@@ -58,7 +58,7 @@
 
 ! hentaihaven.org
 ||trw12.com^$popup
-||hentaihaven.org/_b2.php
+||hentaihaven.org/beta/
 
 ! 3movs.com
 ||towardangelaosprey.com^
