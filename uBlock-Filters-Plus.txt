@@ -320,6 +320,10 @@ pornhd.com##.video-thumb-ad-zone
 @@||hiqqu.xxx/*ad$script
 ||hiqqu.xxx/static/scripts.js
 
+! xvideos.com
+||iwanttodeliver.com^$popup
+/popupclick/$popup
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
@@ -694,6 +698,8 @@ _popunder&$document
 
 ! startpage.com
 @@/js/abp.js?
+! Let's the search results appear immediatly instead after a short delay. Please report any problems.
+||startpage.com/js/result_header_new.js
 
 ! hstspreload.appspot.com (some rare breakage, whitelisting does no harm)
 @@||hstspreload.appspot.com^$first-party
@@ -716,8 +722,3 @@ searchdns.netcraft.com##.advert-tag
 ! sh.st
 ! To counter shorte.st in hpHosts’ Ad and tracking servers and Dan Pollock’s hosts file (unable to follow links).
 @@||static.shorte.st^$domain=sh.st
-
-! q.gs broken
-! To counter adf.ly in Peter Lowe’s Ad server list (unable to follow links).
-@@||static.adf.ly^$domain=q.gs
-@@||cdn.adf.ly^$domain=q.gs
