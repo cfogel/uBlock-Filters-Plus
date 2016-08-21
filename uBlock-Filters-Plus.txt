@@ -697,7 +697,7 @@ _popunder&$document
 ! @@||popads.net/pop.js$script
 
 ! startpage.com
-@@/js/abp.js?$first-party
+@@/js/abp.js?$script,first-party
 ! Let's the search results appear immediatly instead after a short delay. Please report any problems.
 ||startpage.com/js/result_header_new.js
 
