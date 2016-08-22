@@ -324,6 +324,9 @@ pornhd.com##.video-thumb-ad-zone
 ||iwanttodeliver.com^$popup
 /popupclick/$popup
 
+! extremetube.com
+/scripts/sweet/b3.php
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
