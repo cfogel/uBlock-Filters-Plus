@@ -313,6 +313,7 @@ heise.de###bannerzone
 
 ! hdzog.com
 ##a[href*="/_b3.php?url="]
+##a[href*="/_c3.php?url="]
 ##a[href^="/adb/"]
 
 ! pornhd.com
