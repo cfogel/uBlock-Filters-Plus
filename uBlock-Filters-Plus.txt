@@ -219,6 +219,9 @@ netzwelt.de##DIV[style="text-align: center; padding: 0px; border-color: transpar
 
 ! pornhub.com
 zone_id$domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,third-party,subdocument,important
+##[href*="://ab.advertiserurl.com/"]
+||advertiserurl.com^
+||advertiserurl.com^$popup
 
 ! monova.org
 ##a[href^="http://data.oileddaintiessunset.info/"]
