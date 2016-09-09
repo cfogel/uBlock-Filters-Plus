@@ -335,6 +335,8 @@ pornhd.com##.video-thumb-ad-zone
 ||ipsowrite.com^
 ||ipsowrite.com^popup
 ##a[href*="://secure.link/"]
+.com/*/Redirect.a1b$document
+watchfree.to##.get_vpn
 
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
