@@ -736,3 +736,7 @@ searchdns.netcraft.com##.advert-tag
 ! sh.st
 ! To counter shorte.st in hpHosts’ Ad and tracking servers and Dan Pollock’s hosts file (unable to follow links).
 @@||static.shorte.st^$domain=sh.st
+
+! realitykings.com
+! To counter ||cache.realitykings.com^ in MVPS HOSTS.
+@@||cache.realitykings.com^$media,object,first-party
