@@ -345,6 +345,7 @@ noticiasautomotivas.com.br##script:inject(bab-defuser.js)
 openload.us##script:inject(bab-defuser.js)
 ! animmex.com
 animmex.com##script:inject(bab-defuser.js)
+4553t5pugtt1qslvsnmpc0tpfz5fo.xyz##script:inject(bab-defuser.js)
 
 ! Random filters
 ###adb-note
