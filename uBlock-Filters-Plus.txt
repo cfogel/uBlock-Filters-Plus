@@ -343,6 +343,8 @@ watchfree.to##.get_vpn
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
 ! openload.us
 openload.us##script:inject(bab-defuser.js)
+! animmex.com
+animmex.com##script:inject(bab-defuser.js)
 
 ! Random filters
 ###adb-note
