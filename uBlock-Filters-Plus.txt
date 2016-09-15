@@ -700,7 +700,7 @@ _popunder+$document
 ! Created by myself
 /adserving$document
 /puopen$document
-/popunder$document
+/popunder$document,domain=~webopedia.com
 _popunder&$document
 /servlet/view/*$document
 ! Experimental
