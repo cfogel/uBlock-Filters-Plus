@@ -73,7 +73,7 @@ hentaihaven.org##.hh_simple_banner
 ||data.*.com^$document
 
 ! x3xtube.com
-/popup.$document
+/popup.$document,domain=~webopedia.com
 /po1.php?
 ||0jzxzd21.com^
 ||adnium.com^
@@ -575,7 +575,7 @@ animmex.com##script:inject(bab-defuser.js)
 /msnpopup4.$document
 /wp_actionpop/*$document
 /pop-under.$document
-/pop2.$document
+/pop2.$document,domain=~webopedia.com
 /pop?tid=$document
 /pop_ad.$document
 /pop_adfy.$document
