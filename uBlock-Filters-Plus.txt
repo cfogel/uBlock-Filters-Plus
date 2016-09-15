@@ -652,7 +652,7 @@ _popupunder.$document
 /adclick.$document
 /adClick/*$document
 /AdHandler.aspx?$document
-/ads.htm$document
+/ads.htm$document,domain=~webopedia.com
 /adServe/*$document
 /adserver.$document
 /adstream_sx.ads/*$document
