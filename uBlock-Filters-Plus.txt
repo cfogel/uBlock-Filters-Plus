@@ -594,7 +594,7 @@ animmex.com##script:inject(bab-defuser.js)
 /popshow.$document
 /popu.$document
 /popunder-$document
-/popunder.$document
+/popunder.$document,domain=~webopedia.com
 /popunder/*$document
 /popunder1.$document
 /popunder1_$document
