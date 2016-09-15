@@ -614,7 +614,7 @@ animmex.com##script:inject(bab-defuser.js)
 /popup-domination/*$document
 /popup2.$document
 /popup3.$document
-/popup_ad.$document
+/popup_ad.$document,domain=~webopedia.com
 /popup_code.$document
 /popupads.$document
 /popupdfp.$document
