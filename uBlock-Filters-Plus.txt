@@ -338,6 +338,10 @@ pornhd.com##.video-thumb-ad-zone
 .com/*/Redirect.a1b$document
 watchfree.to##.get_vpn
 
+! the-watch-series.to
+##a[href*="://internalredirect.site/"]
+##[id^="MarketGidWrap"]
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
