@@ -147,7 +147,6 @@ auroravid.to,wholecloud.net###aad
 ||free-state.work^$popup
 
 ! search.disconnect.me
-|http*$domain=search.disconnect.me,third-party
 search.disconnect.me###premium-protection
 search.disconnect.me##.ad
 
