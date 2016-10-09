@@ -334,6 +334,9 @@ watchfree.to##.get_vpn
 the-watch-series.to##a[href*="://internalredirect.site/"]
 the-watch-series.to##[id^="MarketGidWrap"]
 
+! foreverdreaming.org
+||transcripts.foreverdreaming.org^$inline-script
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
