@@ -356,6 +356,9 @@ accountkiller.com##[onclick^="trackLinkClick('outbound', 'cancel_removal_link'"]
 /exo-loader/frontend_loader.js
 /statserv/video/view
 
+! thehackernews.com
+thehackernews.com##A[href^="http://ow.ly/"]
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
