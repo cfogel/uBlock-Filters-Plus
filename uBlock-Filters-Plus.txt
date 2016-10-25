@@ -54,7 +54,8 @@
 ###infCP
 
 ! hanime.tv
-||contentabc.com^$popup
+||contentabc.com^$popup,third-party
+||atas.io^$popup,third-party
 
 ! hentaihaven.org
 ||trw12.com^$popup
