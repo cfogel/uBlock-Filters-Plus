@@ -363,6 +363,10 @@ thehackernews.com##A[href^="http://ow.ly/"]
 ! mail.google.com
 ||play.google.com/log?
 
+! reviewmeta.com
+reviewmeta.com##.ad_gu_tr
+reviewmeta.com##.ad_unit_1
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
