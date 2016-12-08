@@ -61,6 +61,10 @@
 ||trw12.com^$popup
 ||hentaihaven.org/beta/
 hentaihaven.org##.hh_simple_banner
+! https://forums.lanik.us/viewtopic.php?p=108024#p108024
+||hentaihaven.org/_
+||hentaihaven.org/lube/
+hentaihaven.org##.ads
 
 ! 3movs.com
 ||towardangelaosprey.com^
@@ -366,6 +370,16 @@ thehackernews.com##A[href^="http://ow.ly/"]
 ! reviewmeta.com
 reviewmeta.com##.ad_gu_tr
 reviewmeta.com##.ad_unit_1
+
+! https://forums.lanik.us/viewtopic.php?p=108955#p108955
+##A[href*="://nitrogensports.eu/r/"]
+themerkle.com##.topad
+||themerkle.com/wp-content/uploads/*/banner-
+||themerkle.com/wp-content/*/300x600.
+||themerkle.com/wp-content/*/300x600_
+
+! scoobysworkshop.com
+##a[href*=".hop.clickbank.net/"]
 
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
