@@ -626,7 +626,7 @@ animmex.com##script:inject(bab-defuser.js)
 /pop_under/*$document
 /popad-$document
 /popad.$document
-/popads.$document
+/popads.$document,domain=~github.com|~githubusercontent.com
 /popads/*$document
 /popads_$document
 /popadscpm.$document
