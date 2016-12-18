@@ -74,7 +74,7 @@ hentaihaven.org##.ads
 /click-in.php?$document
 /arecl.js
 /click.php?$document
-||data.*.com^$document
+||data.*.com^$document,domain=~data.docurec.com|~data.choice.microsoft.com
 
 ! x3xtube.com
 /popup.$document,domain=~webopedia.com
