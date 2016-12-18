@@ -159,6 +159,7 @@ textmechanic.com##.patreon
 
 ! mail.live.com
 live.com###owaadbar
+outlook.live.com##div[class="_n_h"][style*="width: 165px;"]
 
 ! mobilegeeks.de
 mobilegeeks.de###ha-footer
