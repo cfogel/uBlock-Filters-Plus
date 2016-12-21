@@ -113,8 +113,12 @@ primewire.ag,primewire.in,primewire.org##[onclick*="'bt_stream'"]
 
 ! viptube.com
 ! https://forums.lanik.us/viewtopic.php?p=87128#p87128
-||vptbn.com^$popup,third-party
 ||cnt.viptube.com^
+||viptube.com/_
+viptube.com###adx_ad
+viptube.com##.footer_adv
+@@||viptube.com^$generichide
+||t.vptbn.com^$popup
 
 ! Unblocking video player
 ! https://forums.lanik.us/viewtopic.php?f=62&t=28262
@@ -386,6 +390,13 @@ themerkle.com##.topad
 
 ! bestvpn.com
 ||bestvpn.com/wp-content/cache/scripts/*-deanedwards.js
+
+! comdotgame.com
+! https://forums.lanik.us/viewtopic.php?p=105127#p105127
+##A[href*="nutaku.net/signup/landing/"][href*="?ats="]
+||sexgangsters.com/?pid=$popup,third-party
+||nutaku.net/signup/landing/$popup,third-party
+||shs.comdotgame.com^
 
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
