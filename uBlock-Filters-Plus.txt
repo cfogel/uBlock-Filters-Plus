@@ -384,6 +384,9 @@ themerkle.com##.topad
 ! dottech.org
 ||azadify.com^$third-party
 
+! bestvpn.com
+||bestvpn.com/wp-content/cache/scripts/*-deanedwards.js
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
