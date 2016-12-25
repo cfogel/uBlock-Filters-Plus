@@ -398,6 +398,25 @@ themerkle.com##.topad
 ||nutaku.net/signup/landing/$popup,third-party
 ||shs.comdotgame.com^
 
+! https://forums.lanik.us/viewtopic.php?p=110522#p110522
+||p.d.*.com/v$script,third-party
+
+! tvdigital.de
+||images.dvbdata.com/*.jpg$subdocument,third-party
+
+! hoerzu.de
+@@||uobsoe.com/ad_bomb/*.png$image,third-party
+hoerzu.de##.voltera-b
+hoerzu.de##.content-amazon
+/ccc-adscript/*
+||conative.de^$third-party
+||kameleoon.eu^$third-party
+||d31bfnnwekbny6.cloudfront.net^
+||d62mrph0xm5hi.cloudfront.net^
+
+! securityxploded.com
+||urldelivery.com^
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
