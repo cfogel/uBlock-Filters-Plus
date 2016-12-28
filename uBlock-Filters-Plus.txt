@@ -270,7 +270,7 @@ www.anabolicmen.com###text-55
 
 ! uploadrocket.net
 |http*$domain=uploadrocket.net,script,third-party
-@@||api.solvemedia.com^$script,domain=uploadrocket.net
+@@||api.solvemedia.com^$script,third-party,domain=uploadrocket.net
 
 ! flashx.cc
 ##a[href*="/afu.php"]
@@ -322,7 +322,7 @@ pornhd.com##.zone.phdZone
 pornhd.com##.video-thumb-ad-zone
 
 ! hiqqu.xxx
-@@||hiqqu.xxx/*ad$script
+@@||hiqqu.xxx/static/ads/ads.js$script,first-party
 ||hiqqu.xxx/static/scripts.js
 
 ! xvideos.com
@@ -796,9 +796,6 @@ _popunder&$document
 @@/js/abp.js?$script,first-party
 ! Let's the search results appear immediatly instead after a short delay. Please report any problems.
 ||startpage.com/js/result_header_new.js
-
-! hstspreload.appspot.com (some rare breakage, whitelisting does no harm)
-@@||hstspreload.appspot.com^$first-party
 
 ! searchdns.netcraft.com (some rare breakage)
 @@||searchdns.netcraft.com^$generichide
