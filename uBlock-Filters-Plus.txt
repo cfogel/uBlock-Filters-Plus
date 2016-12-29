@@ -77,7 +77,7 @@ hentaihaven.org##.ads
 ||data.*.com^$document,domain=~data.docurec.com|~data.choice.microsoft.com
 
 ! x3xtube.com
-/popup.$document,domain=~webopedia.com
+||x3xtube.com/redir*.html$popup
 /po1.php?
 ||0jzxzd21.com^
 ||adnium.com^
