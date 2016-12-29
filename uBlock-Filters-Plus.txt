@@ -82,6 +82,7 @@ hentaihaven.org##.ads
 ||0jzxzd21.com^
 ||adnium.com^
 x3xtube.com##[href^="http://join."]
+x3xtube.com##a[href^="/cgi-bin/a2/out.cgi?id="][href*="&l=trade_thumbs"]
 
 ! openload.co
 ||downloatransfer.com^$popup
