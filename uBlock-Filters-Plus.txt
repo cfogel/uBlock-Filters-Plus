@@ -418,6 +418,9 @@ hoerzu.de##.content-amazon
 ! securityxploded.com
 ||urldelivery.com^
 
+! pussyspace.com
+||pussyspace.com/ajax_obj.js
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
