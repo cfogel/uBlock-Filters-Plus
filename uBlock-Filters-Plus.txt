@@ -670,7 +670,7 @@ animmex.com##script:inject(bab-defuser.js)
 /pop_under/*$document
 /popad-$document
 /popad.$document
-/popads.$document,domain=~github.com|~githubusercontent.com
+/popads.$document,domain=~alexa.com|~builtwith.com|~domaintools.com|~github.com|~githubusercontent.com|~mywot.com|~publicwww.com|~similarweb.com|~w3bin.com|~w3techs.com|~who.is
 /popads/*$document
 /popads_$document
 /popadscpm.$document
