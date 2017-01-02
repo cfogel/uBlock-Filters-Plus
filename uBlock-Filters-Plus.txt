@@ -424,6 +424,9 @@ hoerzu.de##.content-amazon
 ! keezmovies.com
 /revive-adserver-$popunder,popup
 
+! hentai-foundry.com
+hentai-foundry.com##P > [href^="http"] > IMG[src^="//img.hentai-foundry.com/"]
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
