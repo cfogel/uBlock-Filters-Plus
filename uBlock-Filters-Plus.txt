@@ -401,6 +401,7 @@ themerkle.com##.topad
 
 ! https://forums.lanik.us/viewtopic.php?p=110522#p110522
 ||p.d.*.com/v$script,third-party
+||p.d.*.org/v$script,third-party
 
 ! tvdigital.de
 ||images.dvbdata.com/*.jpg$subdocument,third-party
