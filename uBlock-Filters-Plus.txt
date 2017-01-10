@@ -821,7 +821,7 @@ searchdns.netcraft.com##.advert-tag
 ! piwik.org
 ! To counter piwik.org in MVPS HOSTS. It makes no sense to block their site since it's a local analytics tool.
 @@||piwik.org^$first-party
-||demo*.piwik.org/piwik.php$image,first-party,important
+||demo*.piwik.org/piwik.php$first-party,important
 
 ! sh.st
 ! To counter shorte.st in hpHosts’ Ad and tracking servers and Dan Pollock’s hosts file (unable to follow links).
