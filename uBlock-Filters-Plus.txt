@@ -431,6 +431,10 @@ hentai-foundry.com##P > [href^="http"] > IMG[src^="//img.hentai-foundry.com/"]
 ! torrentdownloads.me
 ##A[href*="/AF_TA/rel/index.cfm"]
 
+! 4tube.com
+||restoring.club^
+/scripts/sweet/*$third-party
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
