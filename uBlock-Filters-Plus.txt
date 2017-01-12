@@ -435,6 +435,9 @@ hentai-foundry.com##P > [href^="http"] > IMG[src^="//img.hentai-foundry.com/"]
 ||restoring.club^
 /scripts/sweet/*$third-party
 
+! pornult.com
+/unblockmeback.php$script
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
