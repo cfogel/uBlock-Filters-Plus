@@ -439,6 +439,9 @@ hentai-foundry.com##P > [href^="http"] > IMG[src^="//img.hentai-foundry.com/"]
 ! pornult.com
 /unblockmeback.php$script
 
+! foxtube.com
+||e.mzsimg.com^$image,domain=foxtube.com
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
