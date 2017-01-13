@@ -202,6 +202,7 @@ torrentfreak.com##ASIDE.widg.widget_text
 /adblockbanner*$script
 /popadblock*$script
 /adblockpopunder*$script
+.com/faloo.js|$script,first-party
 
 ! sharesix.com
 ||sharesix.com/a/images/*.gif
