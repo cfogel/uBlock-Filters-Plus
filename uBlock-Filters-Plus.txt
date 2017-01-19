@@ -445,6 +445,9 @@ hentai-foundry.com##P > [href^="http"] > IMG[src^="//img.hentai-foundry.com/"]
 ! porndoe.com
 ||porndoe.com/misc/*.php
 
+! https://forums.lanik.us/viewtopic.php?p=103840#p103840
+||webmd.com/dtmcms/live/webmd/*/oas*.js
+
 ! blockadblock
 ! https://github.com/reek/anti-adblock-killer/issues/1055
 noticiasautomotivas.com.br##script:inject(bab-defuser.js)
