@@ -847,3 +847,7 @@ searchdns.netcraft.com##.advert-tag
 ! realitykings.com
 ! To counter ||cache.realitykings.com^ in MVPS HOSTS.
 @@||cache.realitykings.com^$media,object,first-party
+
+! teamskeet.com
+! To counter ||cdn.teamskeetimages.com^ in MVPS HOSTS.
+@@||cdn.teamskeetimages.com^$image,domain=teamskeet.com
