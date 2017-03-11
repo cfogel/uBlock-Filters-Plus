@@ -278,6 +278,8 @@ www.anabolicmen.com###text-55
 ##a[href*="/afu.php"]
 
 ! chip.de
+||p.w.*.com/s/err
+||contributor.google.com/scripts/*/loader.js$script,domain=chip.de
 ||schneevonmorgen.com^
 ||svonm.com^
 chip.de###sparwelt_cont
