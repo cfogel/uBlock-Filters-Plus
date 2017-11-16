@@ -1,4 +1,4 @@
-# Title: uBlock Filters +
+! Title: uBlock Filters +
 # License: https://creativecommons.org/licenses/by-sa/4.0/
 # Homepage: https://github.com/IDKwhattoputhere/uBlock-Filters-Plus
 # Support: https://github.com/IDKwhattoputhere/uBlock-Filters-Plus/issues
